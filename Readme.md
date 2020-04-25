@@ -2,7 +2,7 @@
 Graphology is the study of human personality through writing. It is a projective personality test, that let us know diverse personality traits.
 This repo is an effort to use Machine Learning to do an analysis using fixed rules of graphology. A more detailed log and explanation about this project is [here](https://github.com/jesusmartinoza/Graphology-ML/blob/master/Report.pdf)
 
-##How-to-run
+## How-to-run
 1. Make sure npm works on your system.
 
 2. Clone this repo.
